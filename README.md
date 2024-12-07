@@ -40,7 +40,7 @@ Encourages users to stay connected via the app.
 Contains contact information, social media links, or copyright details.
 Provides quick access to additional resources like policies or FAQs.
 
-h. Overall Website Features
+8. Overall Website Features
 Responsive Design: Ensured via Tailwind CSS for compatibility with all devices.
 Fast Performance: Achieved with Vite's optimized bundling.
 Component-based Structure: Simplifies maintainability and scaling.
