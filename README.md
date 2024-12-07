@@ -44,3 +44,8 @@ Provides quick access to additional resources like policies or FAQs.
 Responsive Design: Ensured via Tailwind CSS for compatibility with all devices.
 Fast Performance: Achieved with Vite's optimized bundling.
 Component-based Structure: Simplifies maintainability and scaling.
+
+
+![image alt] (https://github.com/Shadhin-Ahmed/TRS-Coffee-Shop/blob/main/images/1.png?raw=true)
+
+
