@@ -46,6 +46,6 @@ Fast Performance: Achieved with Vite's optimized bundling.
 Component-based Structure: Simplifies maintainability and scaling.
 
 
-![image alt] (https://github.com/Shadhin-Ahmed/TRS-Coffee-Shop/blob/main/images/1.png?raw=true)
+![image alt] (https://github.com/Shadhin-Ahmed/TRS-Coffee-Shop/blob/872e887066a6af696f9d38c40516646238162490/images/1.png)
 
 
