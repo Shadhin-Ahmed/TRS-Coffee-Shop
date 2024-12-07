@@ -47,4 +47,7 @@ h. Overall Website Features
 Responsive Design: Ensured via Tailwind CSS for compatibility with all devices.
 Fast Performance: Achieved with Vite's optimized bundling.
 Component-based Structure: Simplifies maintainability and scaling.
+
+<img src-"C:\Users\USER\OneDrive\Pictures\Screenshots">
+
 Stylish UI: Designed with Tailwind CSS for modern aesthetics.
