@@ -5,10 +5,10 @@
 3. ReactJS
 4. JavaScript/JSX
 5. Vite
-  - A modern front-end toolchain (visible via vite.config.js) used for fast building and serving of the React application.
+A modern front-end toolchain (visible via vite.config.js) used for fast building and serving of the React application.
 6. Node.js & npm
 7. PostCSS
-  - A CSS preprocessor for transforming styles. The configuration file (postcss.config.js) suggests Tailwind CSS or other transformations are processed through it.
+A CSS preprocessor for transforming styles. The configuration file (postcss.config.js) suggests Tailwind CSS or other transformations are processed through it.
 
 
 
